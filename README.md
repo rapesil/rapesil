@@ -1,12 +1,13 @@
 - 👋 Hi, I’m Rafael Peixoto.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samantacici/)](https://www.linkedin.com/in/rapesil/)
-[![Medium Badge](https://img.shields.io/badge/-@rapesil-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@samantacicilia)](https://medium.com/@rapesil)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rapesil/)](https://www.linkedin.com/in/rapesil/)
+[![Medium Badge](https://img.shields.io/badge/-@rapesil-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rapesil)](https://medium.com/@rapesil)
 
 - 💻 I’m currently working on [@PagSeguro](https://github.com/pagseguro/)
 - 🎧 I'm co-host on Aguiar Dev Talks
 - 📚 You can read my posts on [Medium](https://rapesil.medium.com) 
 - 🌱 I’m currently learning SpringBoot Tests and Tests Smells
+- 💙 I'm blue belt Kyokushin (7 kyy)
 - 💬 Ask me about test automation and software quality
 - 📫 How to reach me rapesil15@gmail.com
 
