@@ -6,7 +6,7 @@
 - 🎧 I'm co-host on [Aguiar Dev Talks](https://open.spotify.com/show/4O1AS5tQc4aOGenOnaD0Zr)
 - 📚 You can read my posts on [Medium](https://rapesil.medium.com) 
 - 🌱 I’m currently learning SpringBoot Tests and Tests Smells
-- 💙 I'm blue belt Kyokushin (7 kyy)
+- 💙 I'm blue belt Kyokushin (7 kyu)
 - 💬 Ask me about test automation and software quality
 - 📫 How to reach me rapesil15@gmail.com
 
