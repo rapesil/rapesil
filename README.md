@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rapesil/)](https://www.linkedin.com/in/rapesil/)
 [![Medium Badge](https://img.shields.io/badge/-@rapesil-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rapesil)](https://medium.com/@rapesil)
-- 💻 I’m currently working on [@PagSeguro](https://github.com/pagseguro/)
+- 💻 I’m currently working on [@PagSeguro](https://github.com/pagseguro/) as a Software Development Engineer in Test
 - 🎧 I'm co-host on Aguiar Dev Talks
 - 📚 You can read my posts on [Medium](https://rapesil.medium.com) 
 - 🌱 I’m currently learning SpringBoot Tests and Tests Smells
