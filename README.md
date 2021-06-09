@@ -7,9 +7,9 @@
 - ✏️ I'm the author of `Selenium WebDriver - Descomplicando Testes Automatizado com Java`, a book about web automated tests. You can find my book directly at [Casa do Código](https://www.casadocodigo.com.br/pages/sumario-selenium-webdriver) or [Amazon](https://www.amazon.com/Selenium-WebDriver-Descomplicando-automatizados-Portuguese-ebook/dp/B07FMJXZ27).
 - 📚 You can read my posts on [Medium](https://rapesil.medium.com) 
 - 🌱 I’m currently learning SpringBoot Tests and Tests Smells
-- 💙 I'm blue belt Kyokushin (7 kyu)
+- 💙 I'm blue belt in Kyokushin Karate(7 kyu)
 - 💬 Ask me about test automation and software quality
-- 📫 How to reach me rapesil15@gmail.com
+- 📫 How to reach me: rapesil15@gmail.com
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rapesil)
 
