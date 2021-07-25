@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rapesil/)](https://www.linkedin.com/in/rapesil/)
 [![Medium Badge](https://img.shields.io/badge/-@rapesil-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rapesil)](https://medium.com/@rapesil)
-- 💻 I’m currently working on [@PagSeguro](https://github.com/pagseguro/) as a Software Development Engineer in Test
+- 💻 I’m currently working on [@PagSeguro](https://github.com/pagseguro/) as a Software Specialist Engineer in Test
 - 🎧 I'm co-host on [Aguiar Dev Talks](https://open.spotify.com/show/4O1AS5tQc4aOGenOnaD0Zr)
 - ✏️ I'm the author of `Selenium WebDriver - Descomplicando Testes Automatizado com Java`, a book about web automated tests. You can find my book directly at [Casa do Código](https://www.casadocodigo.com.br/pages/sumario-selenium-webdriver) or [Amazon](https://www.amazon.com/Selenium-WebDriver-Descomplicando-automatizados-Portuguese-ebook/dp/B07FMJXZ27).
 - 📚 You can read my posts on [Medium](https://rapesil.medium.com) 
