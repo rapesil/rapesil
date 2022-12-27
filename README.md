@@ -6,7 +6,7 @@
 - 🎧 I'm co-host on [Aguiar Dev Talks](https://open.spotify.com/show/4O1AS5tQc4aOGenOnaD0Zr)
 - ✏️ I'm the author of `Selenium WebDriver - Descomplicando Testes Automatizado com Java`, a book about web automated tests. You can find my book directly at [Casa do Código](https://www.casadocodigo.com.br/pages/sumario-selenium-webdriver) or [Amazon](https://www.amazon.com/Selenium-WebDriver-Descomplicando-automatizados-Portuguese-ebook/dp/B07FMJXZ27).
 - 📚 You can read my posts on [Medium](https://rapesil.medium.com) 
-- 💙 I'm yellow belt in Kyokushin Karate(5 kyu)
+- 💙 I'm green belt in Kyokushin Karate(3 kyu)
 - 💬 Ask me about test automation and software quality
 - 📫 How to reach me: rapesil15@gmail.com
 
